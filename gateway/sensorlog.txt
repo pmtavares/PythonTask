@@ -1,0 +1,16 @@
+<reading><time>09:00</time><temperature>25</temperature></reading>
+<reading><time>10:00</time><temperature>30</temperature></reading>
+<reading><time>11:00</time><temperature>34</temperature></reading>
+<reading><time>12:00</time><temperature>35</temperature></reading>
+<reading><time>12:45</time><temperature>36</temperature></reading>
+<reading><time>13:00</time><temperature>39</temperature></reading>
+<reading><time>14:00</time><temperature>36</temperature></reading>
+<reading><time>14:45</time><temperature>35</temperature></reading>
+<reading><time>15:30</time><temperature>35</temperature></reading>
+<reading><time>16:00</time><temperature>34</temperature></reading>
+<reading><time>17:00</time><temperature>32</temperature></reading>
+<reading><time>18:00</time><temperature>30</temperature></reading>
+<reading><time>19:00</time><temperature>30</temperature></reading>
+<reading><time>20:00</time><temperature>28</temperature></reading>
+<reading><time>21:00</time><temperature>28</temperature></reading>
+<reading><time>22:00</time><temperature>25</temperature></reading>
